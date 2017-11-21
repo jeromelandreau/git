@@ -1,2 +1,2 @@
-/* Correction sur la release 1.0 */
+/* Changement sur la branche develop */
 alert("coucou");
